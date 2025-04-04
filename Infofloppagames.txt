@@ -1,0 +1,19 @@
+# Plongez dans les Floppa Games !
+
+Bienvenue dans les incroyables Floppa Games ! Ici, votre mission est de **récolter** des Floppacks, renfermant d'adorables créatures appelées **floppas**. Ces charmantes mascottes existent en **différentes raretés**, allant du commun (36%) au mythique (1%).
+
+Découvrez l'excitation des ouvertures de Floppacks avec une **chance spéciale de trouver des floppas aux couleurs inversées**. **Gagnez des Floppacks** en montant de niveau, en utilisant la commande quotidienne, et en remportant des jeux au sein de la catégorie Floppa Games.
+
+Gardez à l'esprit que vous avez une capacité de stockage limitée de **trois places pour vos floppas**. Pour libérer de l'espace et ouvrir de nouveaux Floppacks, utilisez **"removefloppa <rien/0|1|2>"**. Consultez vos possessions via **"inv"** et personnalisez votre aventure avec **"equipfloppa <rien/1|2>"**.
+
+Connectez-vous avec d'autres joueurs en **échangeant vos floppas** grâce à la commande **"trade <mention>"**, ajoutant une dimension sociale à ce jeu captivant.
+
+Restez attentifs, car de **nouvelles fonctionnalités** sont en préparation (jsp quoi pour l'instant) pour enrichir votre expérience.
+
+Plongez dans cette aventure de collection unique, où chaque Floppa ouvert vous rapproche de moments mémorables. Rejoignez dès maintenant les Floppa Games !
+
+*Raretés : commun(36%), pas commun(24%), rare(18%), epique(10%), legendaire(6%) et mythique(1%).
+2% de chance d'avoir couleur inversé pour chaque floppa*
+
+*C'est tout pour l'instant, d'autre features pour ce mode verrons le jour je ne sais quand, comme plus de jeux que le shifumi mdr, si vous avez des questions/suggestion contactez jokso ou ecrivez au bot en mp (quand il est co).*
+

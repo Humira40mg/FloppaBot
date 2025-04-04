@@ -1,0 +1,40 @@
+Voici la liste des commandes :
+
+**Informations**
+```  help
+  serverinfo
+  ping
+  info <nomcommande> (description d'une commande)
+  msgcount
+  rank <mention|rien>
+  invitelink```
+**Pour le Fun**
+```  floppa
+  say
+  hack <mention>
+  floppaffinite <rien|mention>```
+**Floppa Games**
+```  infofloppagames
+  daily
+  fp
+  inv <rien|utilisateur>
+  storage <rien|utilisateur>
+  removefloppa <all|doublons|liste d'index: 1 2 3 4...>
+  trade <mention>
+  bet <utilisateur>
+  shifumi <utilisateur | aucun>
+  roulette <liste d'utilisateurs | aucun>
+  mastermind <liste d'utilisateurs | aucun>
+     leaderboard```
+**Commandes Admin**
+```  setprefix <prefix>
+  setbotalert <salon|rien>
+  disablebotalert
+  setbienvenue <salon|rien>
+  disablebienvenue
+  togglelvl
+  setdj <nomrole>
+  setskip <0 - 100>
+  settc <salon>
+  setvc <salon>```
+c:

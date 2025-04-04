@@ -1,0 +1,37 @@
+{
+  "603814767454322699": {
+    "nom": "Les Broo",
+    "prefix": ";",
+    "ping": false,
+    "alerte": null,
+    "bienvenue": null
+  },
+  "955937832634048562": {
+    "nom": "Les Broo Studio",
+    "prefix": ";",
+    "ping": true,
+    "alerte": null,
+    "bienvenue": null
+  },
+  "1094908468600766466": {
+    "nom": "Floppa Supremacy",
+    "prefix": ";",
+    "ping": true,
+    "alerte": null,
+    "bienvenue": 1094908470676946946
+  },
+  "1137158802710478878": {
+    "nom": "floppa bot panic room",
+    "prefix": ";",
+    "ping": true,
+    "alerte": 1138689097259565157,
+    "bienvenue": 1138689097259565157
+  },
+  "1220616309029605456": {
+    "nom": "La P\u00e9pini\u00e8re",
+    "prefix": ";",
+    "ping": true,
+    "alerte": null,
+    "bienvenue": null
+  }
+}
